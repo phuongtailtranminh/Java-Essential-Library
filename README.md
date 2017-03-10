@@ -1,7 +1,14 @@
 # Java Essential Library
 
+- [Books](#books)
+- [Java 8](#java-8)
 - [Apache Commons](#apache-commons)
 - [Google Guava](#google-guava)
+- [Dagger 2](#dagger-2)
+- [Bean Mapper](#bean-mapper)
+- [HikariCP](#hikaricp)
+- [Joda-Time](#joda-time)
+- [Hibernate ORM](#hibernate-orm)
 
 ### Books
 
