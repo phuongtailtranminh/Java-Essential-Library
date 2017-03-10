@@ -1,5 +1,6 @@
 # Java Essential Library
 
+- [JSR](#jsr)
 - [Books](#books)
 - [Java 8](#java-8)
 - [Apache Commons](#apache-commons)
@@ -9,6 +10,11 @@
 - [HikariCP](#hikaricp)
 - [Joda-Time](#joda-time)
 - [Hibernate ORM](#hibernate-orm)
+
+### JSR (Java Specification Requests)
+
+- [JSR 354: Money and Currency API](https://jcp.org/en/jsr/detail?id=354)
+- [JSR 303: Bean Validation](https://jcp.org/en/jsr/detail?id=303)
 
 ### Books
 
