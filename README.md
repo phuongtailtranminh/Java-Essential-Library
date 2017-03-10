@@ -70,3 +70,9 @@ The fastest stand-alone connection pool in Java world
 "The standard date and time classes prior to Java SE 8 are poor. By tackling this problem head-on, Joda-Time became the de facto standard date and time library for Java prior to Java SE 8. Note that from Java SE 8 onwards, users are asked to migrate to java.time (JSR-310) - a core part of the JDK which replaces this project."
 
 - [Quickstart](http://www.joda.org/joda-time/quickstart.html)
+
+### Hibernate ORM
+
+"Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC). Unfamiliar with the notion of ORM? Read here."
+
+- [Homepage](http://hibernate.org/orm/)
