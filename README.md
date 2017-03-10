@@ -53,6 +53,6 @@ Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0
 
 "Orika is a Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another. It can be very useful when developing multi-layered applications."
 
-I find out that Orika Mapper is better than ModelMapper when I need to excluse some properties [for Hibernate Lazy Loading]. ModelMapper for List is really ugly and hard to use.
+I find out that Orika Mapper is better than ModelMapper when I need to excluse some properties (for Hibernate Lazy Loading). ModelMapper for List is really ugly and hard to use.
 
 - [Orika Mapper](https://github.com/orika-mapper/orika)
