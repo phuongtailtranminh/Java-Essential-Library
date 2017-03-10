@@ -16,6 +16,7 @@
 
 - [JSR 354: Money and Currency API](https://jcp.org/en/jsr/detail?id=354)
 - [JSR 303: Bean Validation](https://jcp.org/en/jsr/detail?id=303)
+- [JSR 330: Dependency Injection for Java](https://www.jcp.org/en/jsr/detail?id=330)
 
 ### Books
 
