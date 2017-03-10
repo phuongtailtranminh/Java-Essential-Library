@@ -3,6 +3,18 @@
 - [Apache Commons](#apache-commons)
 - [Google Guava](#google-guava)
 
+### Java 8
+- [A Few Hidden Treasures in Java 8](https://www.youtube.com/watch?v=GphO9fWhlAg)
+- [Java 8 best practices by Stephen Colebourne](https://www.youtube.com/watch?v=wOks4LW6I24)
+- [Refactoring to Java 8 by Trisha Gee](https://www.youtube.com/watch?v=NcetKbGayZY)
+- [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q)
+- [Transforming Code to Java 8](https://www.youtube.com/watch?v=wk3WLaR2V2U)
+- [Manning Publications: First class functions in Java 8](https://www.youtube.com/watch?v=gDTzlfjMe98)
+- [GOTO 2014 • New Concurrency Utilities in Java 8 • Angelika Langer](https://www.youtube.com/watch?v=Q_0_1mKTlnY)
+- [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY)
+- [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
+- [Asynchronous programming in Java 8: how to use CompletableFuture by José Paumard](https://www.youtube.com/watch?v=HdnHmbFg_hw)
+
 ### Apache Commons
 
 "The Apache Commons Lang 3 library provides support for manipulation of core classes of the Java APIs. This support includes methods for handling strings, numbers, dates, concurrency, object reflection and more.
@@ -23,3 +35,10 @@ Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0
 - [Four reasons to use Guava](https://www.youtube.com/watch?v=r8seIn7NZQw)
 - [Google Guava, Mite Mitreski](https://www.youtube.com/watch?v=96R9I1i0AM4)
 - [Java Caching with Guava](https://www.youtube.com/watch?v=keqKDhGIJZ8)
+
+### Dagger 2
+
+- [DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+- [The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
+- [Dependency Injection Using Dagger 2](https://www.youtube.com/watch?v=cA4iEmWuSB8)
+- [Dagger 2 @ Pandora](https://www.youtube.com/watch?v=wInzJ76uWTQ)
