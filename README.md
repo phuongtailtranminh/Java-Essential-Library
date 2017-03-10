@@ -1,6 +1,6 @@
 # Java Essential Library
 
-- [JSR](#jsr)
+- [JSR](#jsr-java-specification-requests)
 - [Books](#books)
 - [Java 8](#java-8)
 - [Apache Commons](#apache-commons)
