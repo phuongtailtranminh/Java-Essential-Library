@@ -62,6 +62,14 @@ Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0
 - [Dependency Injection Using Dagger 2](https://www.youtube.com/watch?v=cA4iEmWuSB8)
 - [Dagger 2 @ Pandora](https://www.youtube.com/watch?v=wInzJ76uWTQ)
 
+### Google Guice
+
+"With dependency injection, objects accept dependencies in their constructors. To construct an object, you first build its dependencies. But to build each dependency, you need its dependencies, and so on. So when you build an object, you really need to build an object graph.
+
+Building object graphs by hand is labour intensive, error prone, and makes testing difficult. Instead, Guice can build the object graph for you. But first, Guice needs to be configured to build the graph exactly as you want it."
+
+- [Wiki](https://github.com/google/guice/wiki/GettingStarted)
+
 ### Bean Mapper
 
 "Orika is a Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another. It can be very useful when developing multi-layered applications."
