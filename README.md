@@ -4,6 +4,7 @@
 - [Google Guava](#google-guava)
 
 ### Books
+
 - [High-Performance Java Persistence](https://leanpub.com/high-performance-java-persistence)
 
 ### Java 8
@@ -47,3 +48,7 @@ Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0
 - [The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 - [Dependency Injection Using Dagger 2](https://www.youtube.com/watch?v=cA4iEmWuSB8)
 - [Dagger 2 @ Pandora](https://www.youtube.com/watch?v=wInzJ76uWTQ)
+
+### Bean Mapper
+
+- [Orika Mapper](https://github.com/orika-mapper/orika)
