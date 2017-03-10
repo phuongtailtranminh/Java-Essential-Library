@@ -3,6 +3,9 @@
 - [Apache Commons](#apache-commons)
 - [Google Guava](#google-guava)
 
+### Books
+- [High-Performance Java Persistence](https://leanpub.com/high-performance-java-persistence)
+
 ### Java 8
 - [A Few Hidden Treasures in Java 8](https://www.youtube.com/watch?v=GphO9fWhlAg)
 - [Java 8 best practices by Stephen Colebourne](https://www.youtube.com/watch?v=wOks4LW6I24)
