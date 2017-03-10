@@ -9,8 +9,8 @@
 
 In addition to providing a general introduction to the library, this tutorial demonstrates methods of two of the most commonly used classes, namely ArrayUtils and StringUtils. ArrayUtils is used for operations on arrays, while StringUtils is used for manipulation of String instances." - BaelDung
 
-- Tutorial: http://www.baeldung.com/string-processing-commons-lang
-- Library Homepage: https://commons.apache.org/proper/commons-lang/
+- [Tutorial](http://www.baeldung.com/string-processing-commons-lang)
+- [Library Homepage](https://commons.apache.org/proper/commons-lang/)
 
 ### Google Guava
 
@@ -18,4 +18,8 @@ In addition to providing a general introduction to the library, this tutorial de
 
 Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0 for now. In the next release (22.0) we will begin providing a backport for use on Android and lower JDK versions."
 
-- Library Wiki: https://github.com/google/guava/wiki
+- [Library Wiki](https://github.com/google/guava/wiki)
+- [An Overview of Guava: Google Core Libraries for Java](https://www.youtube.com/watch?v=MFEJll-wU7Q)
+- [Four reasons to use Guava](https://www.youtube.com/watch?v=r8seIn7NZQw)
+- [Google Guava, Mite Mitreski](https://www.youtube.com/watch?v=96R9I1i0AM4)
+- [Java Caching with Guava](https://www.youtube.com/watch?v=keqKDhGIJZ8)
