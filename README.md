@@ -25,7 +25,7 @@
 
 In addition to providing a general introduction to the library, this tutorial demonstrates methods of two of the most commonly used classes, namely ArrayUtils and StringUtils. ArrayUtils is used for operations on arrays, while StringUtils is used for manipulation of String instances." - BaelDung
 
-- [Library Homepage](https://commons.apache.org/proper/commons-lang/)
+- [Homepage](https://commons.apache.org/proper/commons-lang/)
 - [String Processing with Apache Commons Lang 3](http://www.baeldung.com/string-processing-commons-lang)
 
 ### Google Guava
@@ -34,7 +34,7 @@ In addition to providing a general introduction to the library, this tutorial de
 
 Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0 for now. In the next release (22.0) we will begin providing a backport for use on Android and lower JDK versions."
 
-- [Library Wiki](https://github.com/google/guava/wiki)
+- [Wiki](https://github.com/google/guava/wiki)
 - [An Overview of Guava: Google Core Libraries for Java](https://www.youtube.com/watch?v=MFEJll-wU7Q)
 - [Four reasons to use Guava](https://www.youtube.com/watch?v=r8seIn7NZQw)
 - [Google Guava, Mite Mitreski](https://www.youtube.com/watch?v=96R9I1i0AM4)
@@ -64,3 +64,9 @@ The fastest stand-alone connection pool in Java world
 "Fast, simple, reliable. HikariCP is a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light"
 
 - [Github](https://github.com/brettwooldridge/HikariCP)
+
+### Joda-Time
+
+"The standard date and time classes prior to Java SE 8 are poor. By tackling this problem head-on, Joda-Time became the de facto standard date and time library for Java prior to Java SE 8. Note that from Java SE 8 onwards, users are asked to migrate to java.time (JSR-310) - a core part of the JDK which replaces this project."
+
+- [Quickstart](http://www.joda.org/joda-time/quickstart.html)
