@@ -6,6 +6,7 @@
 - [Apache Commons](#apache-commons)
 - [Google Guava](#google-guava)
 - [Dagger 2](#dagger-2)
+- [Google Guice](#google-guice)
 - [Bean Mapper](#bean-mapper)
 - [HikariCP](#hikaricp)
 - [Joda-Time](#joda-time)
