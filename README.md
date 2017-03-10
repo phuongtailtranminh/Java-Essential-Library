@@ -35,6 +35,8 @@ Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0
 - [Four reasons to use Guava](https://www.youtube.com/watch?v=r8seIn7NZQw)
 - [Google Guava, Mite Mitreski](https://www.youtube.com/watch?v=96R9I1i0AM4)
 - [Java Caching with Guava](https://www.youtube.com/watch?v=keqKDhGIJZ8)
+- [GTUG - Using the Google Collections Library for Java (1 of 2)](https://www.youtube.com/watch?v=ZeO_J2OcHYM)
+- [GTUG - Using the Google Collections Library for Java (2 of 2)](https://www.youtube.com/watch?v=9ni_KEkHfto)
 
 ### Dagger 2
 
