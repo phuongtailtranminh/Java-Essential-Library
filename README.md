@@ -55,4 +55,12 @@ Requires JDK 1.8 or higher. If you need support for JDK 1.6 or Android, use 20.0
 
 I find out that Orika Mapper is better than ModelMapper when I need to excluse some properties (for Hibernate Lazy Loading). ModelMapper for List is really ugly and hard to use.
 
-- [Orika Mapper](https://github.com/orika-mapper/orika)
+- [Github](https://github.com/orika-mapper/orika)
+
+### HikariCP
+
+The fastest stand-alone connection pool in Java world
+
+"Fast, simple, reliable. HikariCP is a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light"
+
+- [Github](https://github.com/brettwooldridge/HikariCP)
