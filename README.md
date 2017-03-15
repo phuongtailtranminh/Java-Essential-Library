@@ -17,6 +17,8 @@
 - [JSR 354: Money and Currency API](https://jcp.org/en/jsr/detail?id=354)
 - [JSR 303: Bean Validation](https://jcp.org/en/jsr/detail?id=303)
 - [JSR 330: Dependency Injection for Java](https://www.jcp.org/en/jsr/detail?id=330)
+- [JSR 339: JAX-RS 2.0: The Java API for RESTful Web Services](https://jcp.org/en/jsr/detail?id=339)
+- [JSR 311: JAX-RS: The JavaTM API for RESTful Web Services](https://jcp.org/en/jsr/detail?id=311)
 
 ### Books
 
