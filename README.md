@@ -18,6 +18,7 @@
 - [Google Truth](#google-truth)
 - [Awesome Java index](https://java.libhunt.com/)
 - [Keycloak](#keycloak)
+- [Fernflower](#fernflower)
 
 ### Articles
 
@@ -134,3 +135,9 @@ You can also read Truth’s source directly, view its API docs, and compare it t
 "Keycloak is an open source Identity and Access Management solution aimed at modern applications and services. It makes it easy to secure applications and services with little to no code."
 
 - [Homepage](http://www.keycloak.org/index.html)
+
+### Fernflower
+
+"Fernflower is the first actually working analytical decompiler for Java and probably for a high-level programming language in general."
+
+- [Github](https://github.com/fesh0r/fernflower)
