@@ -14,6 +14,7 @@
 - [HikariCP](#hikaricp)
 - [Joda-Time](#joda-time)
 - [Hibernate ORM](#hibernate-orm)
+- [Benchmark Tools](#benchmark-tools)
 
 ### Articles
 
@@ -109,3 +110,9 @@ The fastest stand-alone connection pool in Java world
 "Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC). Unfamiliar with the notion of ORM? Read here."
 
 - [Homepage](http://hibernate.org/orm/)
+
+### Benchmark Tools
+
+"JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targetting the JVM."
+
+- [Homepage](http://openjdk.java.net/projects/code-tools/jmh/)
