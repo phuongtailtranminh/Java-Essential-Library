@@ -10,11 +10,12 @@
 - [Google Guava](#google-guava)
 - [Dagger 2](#dagger-2)
 - [Google Guice](#google-guice)
-- [Bean Mapper](#bean-mapper)
+- [MapStruct](#mapstruct)
 - [HikariCP](#hikaricp)
 - [Joda-Time](#joda-time)
 - [Hibernate ORM](#hibernate-orm)
 - [Benchmark Tools](#benchmark-tools)
+- [Google Truth](#google-truth)
 
 ### Articles
 
@@ -83,13 +84,13 @@ Building object graphs by hand is labour intensive, error prone, and makes testi
 
 - [Wiki](https://github.com/google/guice/wiki/GettingStarted)
 
-### Bean Mapper
+### MapStruct
 
-"Orika is a Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another. It can be very useful when developing multi-layered applications."
+"MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach. The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand."
 
-I find out that Orika Mapper is better than ModelMapper when I need to excluse some properties (for Hibernate Lazy Loading). ModelMapper for List is really ugly and hard to use.
+I found out that MapStruct is generally better than ModelMapper and Orika, provides a clean-way to do the Bean Mapper work and the community is very productive.
 
-- [Github](https://github.com/orika-mapper/orika)
+- [Documentation](http://mapstruct.org/documentation/dev/reference/html/)
 
 ### HikariCP
 
@@ -116,3 +117,12 @@ The fastest stand-alone connection pool in Java world
 "JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targetting the JVM."
 
 - [Homepage](http://openjdk.java.net/projects/code-tools/jmh/)
+
+### Google Truth
+
+"Truth is an open source, fluent testing framework for Java that is designed to make your test assertions and failure messages more readable, as well as other benefits. It natively supports many JDK types (e.g., Iterable, String, Map) and Guava types (e.g., Optional, Multimap, Multiset, Table), and is also extensible to new types (YourCustomType). See all of the known types here.
+
+You can also read Truth’s source directly, view its API docs, and compare it to common alternatives."
+
+- [Benefit](https://google.github.io/truth/benefits)
+- [Comparation](https://google.github.io/truth/comparison)
