@@ -17,6 +17,7 @@
 - [Benchmark Tools](#benchmark-tools)
 - [Google Truth](#google-truth)
 - [Awesome Java index](https://java.libhunt.com/)
+- [Keycloak](#keycloak)
 
 ### Articles
 
@@ -127,3 +128,9 @@ You can also read Truth’s source directly, view its API docs, and compare it t
 
 - [Benefit](https://google.github.io/truth/benefits)
 - [Comparation](https://google.github.io/truth/comparison)
+
+### Keycloak
+
+"Keycloak is an open source Identity and Access Management solution aimed at modern applications and services. It makes it easy to secure applications and services with little to no code."
+
+- [Homepage](http://www.keycloak.org/index.html)
