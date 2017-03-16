@@ -20,6 +20,7 @@
 - [Keycloak](#keycloak)
 - [Fernflower](#fernflower)
 - [HDIV](#hdiv)
+- [NekoHTML](#nekohtml)
 
 ### Articles
 
@@ -148,3 +149,11 @@ You can also read Truth’s source directly, view its API docs, and compare it t
 "Hdiv is a leading provider of open source software for real-time, self-protected applications. Hdiv solutions are built into applications during development to deliver the strongest available runtime application self-protection (RASP) against OWASP Top 10 threats. Since 2008, Hdiv has pioneered self-protection cyber security software, and today its solutions are used by leading commercial software providers and global enterprises in banking, government, retail, technology, and aerospace."
 
 - [Github](https://github.com/hdiv/hdiv)
+
+### NekoHTML
+
+"NekoHTML is a simple HTML scanner and tag balancer that enables application programmers to parse HTML documents and access the information using standard XML interfaces. The parser can scan HTML files and "fix up" many common mistakes that human (and computer) authors make in writing HTML documents. NekoHTML adds missing parent elements; automatically closes elements with optional end tags; and can handle mismatched inline element tags."
+
+Shortcut: spring.thymeleaf.mode=LEGACYHTML5
+
+- [Homepage](http://nekohtml.sourceforge.net/)
