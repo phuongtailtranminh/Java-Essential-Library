@@ -37,6 +37,7 @@
 
 ### Books
 
+- [Effective Java (2nd edition)](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/ref=sr_1_1?s=books&ie=UTF8&qid=1489762343&sr=1-1&keywords=Effective+Java)
 - [High-Performance Java Persistence](https://leanpub.com/high-performance-java-persistence)
 
 ### Java 8
