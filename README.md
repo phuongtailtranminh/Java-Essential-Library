@@ -156,6 +156,7 @@ You can also read Truth’s source directly, view its API docs, and compare it t
 ### Fernflower
 
 "Fernflower is the first actually working analytical decompiler for Java and probably for a high-level programming language in general."
+* Used by Intellij Idea
 
 - [Github](https://github.com/fesh0r/fernflower)
 
