@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Design Patterns](#design-patterns)
 - [Articles](#articles)
 - [JSR](#jsr-java-specification-requests)
 - [Books](#books)
@@ -21,6 +22,10 @@
 - [Fernflower](#fernflower)
 - [HDIV](#hdiv)
 - [NekoHTML](#nekohtml)
+
+### Design Patterns
+
+- [The State](https://www.oreilly.com/learning/how-to-implement-the-state-architectural-pattern)
 
 ### Articles
 
