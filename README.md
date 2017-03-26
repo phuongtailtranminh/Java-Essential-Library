@@ -26,6 +26,7 @@
 ### Design Patterns
 
 - [The State](https://www.oreilly.com/learning/how-to-implement-the-state-architectural-pattern)
+- [Fluent API](https://blog.jooq.org/2012/01/05/the-java-fluent-api-designer-crash-course/)
 
 ### Articles
 
