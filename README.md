@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Courses](#courses)
 - [Design Patterns](#design-patterns)
 - [Articles](#articles)
 - [JSR](#jsr-java-specification-requests)
@@ -23,10 +24,16 @@
 - [HDIV](#hdiv)
 - [NekoHTML](#nekohtml)
 
+### Courses
+
+- [Design Patterns in the Real World, an Analysis-Based Approach - Allen Holub](http://shop.oreilly.com/product/0636920043942.do)
+- [Architecture under stress](https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/57418?intcmp=il-prog-trainreg-article-sany17_new_site_how_to_implement_the_state_architectural_pattern)
+
 ### Design Patterns
 
 - [The State](https://www.oreilly.com/learning/how-to-implement-the-state-architectural-pattern)
 - [Fluent API](https://blog.jooq.org/2012/01/05/the-java-fluent-api-designer-crash-course/)
+- [Template Method](http://player.oreilly.com/videos/9781491935828?toc_id=226618)
 
 ### Articles
 
