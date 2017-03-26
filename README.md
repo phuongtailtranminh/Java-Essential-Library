@@ -34,6 +34,7 @@
 - [JSR 330: Dependency Injection for Java](https://www.jcp.org/en/jsr/detail?id=330)
 - [JSR 339: JAX-RS 2.0: The Java API for RESTful Web Services](https://jcp.org/en/jsr/detail?id=339)
 - [JSR 311: JAX-RS: The JavaTM API for RESTful Web Services](https://jcp.org/en/jsr/detail?id=311)
+- [JSR 107: JCACHE - Java Temporary Caching API](https://jcp.org/en/jsr/detail?id=107)
 
 ### Books
 
