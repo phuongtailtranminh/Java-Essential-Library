@@ -39,6 +39,7 @@
 
 - [Oracle Technology Network - Java](http://www.oracle.com/technetwork/articles/java/index.html)
 - [IBM developerWorks - Java](https://www.ibm.com/developerworks/views/global/libraryview.jsp?sort_by=&show_abstract=false&show_all=&search_flag=&contentarea_by=Java+technology&search_by=&product_by=-1&topic_by=-1&industry_by=-1&type_by=All+Types&ibm-search=Search)
+- [SitePoint](https://www.sitepoint.com/java/)
 
 ### JSR (Java Specification Requests)
 
