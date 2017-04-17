@@ -23,6 +23,7 @@
 - [Fernflower](#fernflower)
 - [HDIV](#hdiv)
 - [NekoHTML](#nekohtml)
+- [ESAPI](#esapi)
 
 ### Courses
 
@@ -174,3 +175,9 @@ You can also read Truth’s source directly, view its API docs, and compare it t
 Shortcut: spring.thymeleaf.mode=LEGACYHTML5
 
 - [Homepage](http://nekohtml.sourceforge.net/)
+
+### ESAPI
+
+Enterprise Security API for Java
+
+- [Homepage](https://github.com/ESAPI/esapi-java)
